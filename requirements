@@ -1,0 +1,4 @@
+## Requirements
+- Microsoft Excel 2019 or later (Microsoft 365 recommended for formulas using `UNIQUE` and `LET`).
+- Sample Superstore dataset.
+- Basic knowledge of Excel formulas and tables.
